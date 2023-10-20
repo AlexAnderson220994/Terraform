@@ -1,5 +1,7 @@
 # Infrastructure as Code
 
+![Alt text](<images/4. IaC Diagram.jpg>)
+
 ## IaC Research & Development
 
 #### What is Infrastructure as Code (IaC)?
@@ -7,6 +9,8 @@
 - Infrastructure as Code (IaC) is a software engineering approach to managing and provisioning infrastructure and its configurations through machine-readable code or scripts.
 
 ### Configuration Management (with **Ansible**)
+
+![Alt text](<images/3. Ansible Diagram new.jpg>)
 
 #### What is Configure Management?
 
@@ -49,6 +53,8 @@
 - Comments: YAML files can include comments to provide additional information or context.
 
 ### Orchestration (with **Terraform**)
+
+![Alt text](<images/2. terraform diagram.jpg>)
 
 #### What is Orchestration?
 
