@@ -15,7 +15,7 @@
 
 #### What is Ansible?
 
-![Alt text](<Images/1. Ansible diagram.jpg>)
+![Alt text](<images/1. Ansible diagram.jpg>)
 
 - Ansible is an open-source automation tool designed to simplify and automate various IT tasks, including configuration management, application deployment, task automation, and orchestration. 
 - It allows you to define and manage infrastructure as code, making it easier to provision and configure systems and applications consistently. 
